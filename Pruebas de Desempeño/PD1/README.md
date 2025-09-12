@@ -72,10 +72,6 @@
 | **UADY** | Trabajo en equipo en concursos y proyectos de extensión.<br>Toma de decisiones a partir de información de empleadores/egresados.<br>Resolución de conflictos mediante proyectos de software.<br>Liderazgo e iniciativa (emprendimiento e innovación).<br>Responsabilidad social vía programas institucionales. |
 | **UNIDEH** | Trabajo colaborativo en proyectos sistémicos.<br>Liderazgo y visión empresarial (Emprendedurismo, Incubación de PYMEs).<br>Comunicación y negociación (materia específica). |
 
-**Conclusión:**  
-- UADY → enfoque matemático, algoritmos, estructuras y programación orientada a objetos, metodología tradicional y ágil, diseño y administración de proyectos
-- UNIDEH → enfoque a programación, base de datos, diseño de software, interacción humano-computadora, análisis, diseño e implementación en pruebas de mantenimiento
-
 ---
 
 ## 5. Actividades / tareas específicas que promueven competencias
