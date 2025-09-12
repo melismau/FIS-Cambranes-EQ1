@@ -21,16 +21,18 @@
 
 ## 2. Nivel de cumplimiento por Áreas de Conocimiento (ANIEI)
 
-| Área ANIEI | UADY | UNIDEH |
-|---|---|---|
-| Entorno Social | 10.8% | 28% |
-| Matemáticas | 27% | 16% |
-| Arquitectura de Computadoras | 2.7% | 2% |
-| Redes | 2.7% | 6% |
-| Software de Base | 8.1% | 2% |
-| Programación e Ingeniería de SW | 40.5% | 32% |
-| Tratamiento de Información | 5.4% | 8% |
-| Interacción Hombre–Máquina | 2.7% | 6% |
+| Área | UADY | UNIDEH | ANIEI |
+|---|---|---|---|
+| Entorno Social | 10.8% | 28% | 12.5% |
+| Matemáticas | 27% | 16% | 12.5% |
+| Arquitectura de Computadoras | 2.7% | 2% | 7.5% |
+| Redes | 2.7% | 6% | 7.5% |
+| Software de Base | 8.1% | 2% | 7.5% |
+| Programación e Ingeniería de SW | 40.5% | 32% | 22.5% |
+| Tratamiento de Información | 5.4% | 8% | 20% |
+| Interacción Hombre–Máquina | 2.7% | 6% | 10% |
+
+
 
 ---
 
