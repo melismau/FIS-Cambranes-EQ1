@@ -2,9 +2,11 @@
 **Fecha:** 2025-09-11
 
 **Evidencias:** 
-- [Registro de datos + gráficas](https://docs.google.com/spreadsheets/d/1wHhFAi2PuCOXkBQXy0JShUY79S9yBEcgPLUsBTr-CRA/edit?resourcekey=&gid=737864649#gid=737864649)
-- [Infografía]()
-- [Video](https://alumnosuady-my.sharepoint.com/personal/a22204188_alumnos_uady_mx/_layouts/15/stream.aspx?id=%2Fpersonal%2Fa22204188%5Falumnos%5Fuady%5Fmx%2FDocuments%2FFMAT%2FFIS%2FEquipo1%5FVideoComparativa%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8ae442f0%2D0290%2D4317%2Db5ae%2D4dca4784e622) ([Transcripción](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a22204188_alumnos_uady_mx/EVInUrbja3JMsCxtQFiOe-0BDHg_DkjoRXP9ZQJlnlDrAg?e=h7pKq8))
+- [Comparativa](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/PD%201-%20FIS.odt) [[ext.]](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a22204188_alumnos_uady_mx/EUlggJBpQ6hBi6g3cfrlEgEB8bP2W9GA0PmpJX3QGOJPhw?e=gG1ECf)
+- [Registro de datos + gráficas]() [[ext.]](https://docs.google.com/spreadsheets/d/1wHhFAi2PuCOXkBQXy0JShUY79S9yBEcgPLUsBTr-CRA/edit?resourcekey=&gid=737864649#gid=737864649)
+- [Video [ext.]](https://alumnosuady-my.sharepoint.com/personal/a22204188_alumnos_uady_mx/_layouts/15/stream.aspx?id=%2Fpersonal%2Fa22204188%5Falumnos%5Fuady%5Fmx%2FDocuments%2FFMAT%2FFIS%2FEquipo1%5FVideoComparativa%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8ae442f0%2D0290%2D4317%2Db5ae%2D4dca4784e622) ([Transcripción](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Guion%20FIS.odt) [[ext.]](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a22204188_alumnos_uady_mx/EVInUrbja3JMsCxtQFiOe-0BDHg_DkjoRXP9ZQJlnlDrAg?e=h7pKq8))
+- [Infografía](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Infografi%CC%81a.jpeg)
+- ![Infografía](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Infografi%CC%81a.jpeg)
 
 ---
 
@@ -32,7 +34,9 @@
 | Tratamiento de Información | 5.4% | 8% | 20% |
 | Interacción Hombre–Máquina | 2.7% | 6% | 10% |
 
-
+![ANIEI](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Gr%C3%A1ficas/Distribucio%CC%81n%20Ideal%20(ANIEI).png)
+![UADY](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Gr%C3%A1ficas/%23%20de%20Materias%20(UADY).png)
+![UNIDEH](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Gr%C3%A1ficas/%23%20de%20Materias%20(UNIDEH).png)
 
 ---
 
@@ -69,8 +73,8 @@
 | **UNIDEH** | Trabajo colaborativo en proyectos sistémicos.<br>Liderazgo y visión empresarial (Emprendedurismo, Incubación de PYMEs).<br>Comunicación y negociación (materia específica). |
 
 **Conclusión:**  
-- UADY →
-- UNIDEH →
+- UADY → enfoque matemático, algoritmos, estructuras y programación orientada a objetos, metodología tradicional y ágil, diseño y administración de proyectos
+- UNIDEH → enfoque a programación, base de datos, diseño de software, interacción humano-computadora, análisis, diseño e implementación en pruebas de mantenimiento
 
 ---
 
