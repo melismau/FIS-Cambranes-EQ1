@@ -14,6 +14,6 @@
 # Sobre Mayalingo
 (descripcion del producto)
 
---
+---
 # Documentación
 (enlace al wiki)
