@@ -42,7 +42,7 @@ El valor principal de la aplicación es:
 - No incluye certificación oficial ni validación académica del aprendizaje 
 - La aplicación no está diseñada para personas con discapacidades visuales o auditivas.
 
-![Casos de Usos](/docs/artefactos/casoDeUso2.jpeg)
+![Casos de Usos](/docs/artefactos/caso-de-uso2.jpeg)
 
 ## 👥 Contribución al Proyecto
 
