@@ -34,7 +34,7 @@
 | Tratamiento de Información | 5.4% | 8% | 20% |
 | Interacción Hombre–Máquina | 2.7% | 6% | 10% |
 
-![ANIEI](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Gr%C3%A1ficas/Distribucio%CC%81n%20Ideal%20(ANIEI).png)
+![ANIEI](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Gr%C3%A1ficas/Distribucion%20Ideal%20(ANIEI).png)
 ![UADY](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Gr%C3%A1ficas/%23%20de%20Materias%20(UADY).png)
 ![UNIDEH](https://github.com/melismau/FIS-Cambranes-EQ1/blob/main/Pruebas%20de%20Desempe%C3%B1o/PD1/Gr%C3%A1ficas/%23%20de%20Materias%20(UNIDEH).png)
 
