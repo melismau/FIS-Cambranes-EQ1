@@ -19,13 +19,13 @@ Estos perfiles permiten captar a el público que buscan un aprendizaje inicial c
 
 # Clientes y beneficiarios
 El producto cuenta con distintos niveles de clientes y beneficiarios que aportan valor en el proceso de desarrollo, financiamiento y uso social:
-1. Clientes potenciales
+_**1. Clientes potenciales**_
 - **Gobierno del estado de Yucatán:** interesado por la preservación cultural de la región.
 - **Universidad Autónoma de Yucatán (UADY):** institución académica que podría integrar la aplicación en sus programas educativos
-2. Beneficiarios directos
+_**2. Beneficiarios directos**_
 - **Comunidades mayas:** dispondría de una herramienta para generar una mayor visualización de su lengua y difundirla a nuevas generaciones
 - **Usuarios individuales:** estudiantes, educadores y público en general que aprenderán el idioma de una manera más didáctica y accesible.
-3. Beneficiarios indirectos
+_**3. Beneficiarios indirectos**_
 - **Organizaciones culturales y ONGs:** que trabajan en la promoción de la lengua y cultura maya.
 - **Turistas nacionales e internacionales:** al poder conocer expresiones básicas de la lengua maya para mejorar la experiencia al visitar la región.
 - **Sociedad general:** al contar con un recurso digital el cual ayuda en la preservación de una lengua que es patrimonio intangible de México.
