@@ -1,7 +1,7 @@
 # Usuarios y clientes
 La aplicación está dirigida a un público muy amplio que inicia a partir de los 12 años de edad en adelante, con el fin de fomentar el aprendizaje, la práctica y la preservación de la lengua maya. En el diseño se contempla una interfaz de usuario sencilla, intuitiva y atractiva, de esta manera evitando barreras tecnológicas para facilitar el uso.
 
-# Usuarios
+## Usuarios
 
 _**1. Estudiantes (secundaria, preparatoria y universidad)**_
 - **Necesidad:** ampliar el conocimiento cultural y académico mediante la adquisición de vocabulario y expresiones maya.
@@ -21,7 +21,7 @@ _**4. Hablantes nativos de la lengua maya**_
 
 Estos perfiles permiten captar a el público que buscan un aprendizaje inicial como a quienes desean fortalecer sus conocimientos previos, así fomentando la inclusión y accesibilidad.
 
-# Clientes y beneficiarios
+## Clientes y beneficiarios
 El producto cuenta con distintos niveles de clientes y beneficiarios que aportan valor en el proceso de desarrollo, financiamiento y uso social:
 
 _**1. Clientes potenciales**_
