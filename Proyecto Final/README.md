@@ -21,12 +21,12 @@ El valor principal de la aplicación es:
 - Ofrecer una experiencia integral, accesible y actualizada que actualmente no existe en otras iniciativas digitales.
 
 ## 🏗️ Estructura del Repositorio
-| Categoría e Indicadores                                                                                   | Enlaces                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Producto<br>- Descripción del producto<br>- Usuarios/Clientes<br>- Propuesta de valor                     | `/docs/producto/`<br>`/docs/producto/descripcion-de-producto.md`<br>`/docs/producto/usuarios-clientes.md`<br>`/docs/producto/propuesta-de-valor.md`                                 |
-| Requisitos<br>- Requisitos funcionales<br>- Requisitos no funcionales<br>- Priorizacion                   | `/docs/requisitos/`<br>`/docs/producto/requisitos-funcionales.md`<br>`/docs/producto/requisitos-no-funcionales.md`<br>`/docs/producto/priorizacion.md`<br>                          |
-| Proceso<br>- Descripción del proceso<br>- Gestión del proceso<br>- Métrica de contribución individual<br> | `/docs/gestion-del-proyecto/`<br>`/docs/gestion-del-proyecto/metodologia.md`<br>`/docs/gestion-del-proyecto/bitacoras/`<br>`/docs/gestion-del-proyecto/metricas-de-contribucion.md` |
-| Artefactos                                                                                                | `/docs/artefactos/`                                                                                                                                                                 |
+| Categoría e Indicadores | Enlaces |
+|-------------------------|---------|
+| Producto <br>- Descripción del producto <br>- Usuarios/Clientes <br>- Propuesta de valor | `/docs/producto/` <br>`.../descripcion-de-producto.md` <br>`.../usuarios-clientes.md` <br>`.../propuesta-de-valor.md` |
+| Requisitos <br>- Requisitos funcionales <br>- Requisitos no funcionales <br>- Priorización <br>- Artefactos | `/docs/requisitos/` <br>`.../requisitos-funcionales.md` <br>`.../requisitos-no-funcionales.md` <br>`.../priorizacion.md` <br>`.../artefactos/...`|
+| Proceso <br>- Descripción del proceso <br>- Gestión del proceso <br>- Métrica de contribución individual | `/docs/gestion-del-proyecto/` <br>`.../descripcion-del-proceso.md` <br>`.../gestion-del-proceso.md` `.../bitacoras/...`  <br>`.../metricas-de-contribucion.md` |
+
 ## 🎯 Alcance del Proyecto
 ### Aspectos
 - Diseño de una interfaz amigable con ilustraciones y elemento visuales inspirados en la cultura maya. 
@@ -42,7 +42,7 @@ El valor principal de la aplicación es:
 - No incluye certificación oficial ni validación académica del aprendizaje 
 - La aplicación no está diseñada para personas con discapacidades visuales o auditivas.
 
-![Casos de Usos](docs/artefactos/caso-de-uso2.jpeg)
+![Casos de Usos](docs/requisitos/artefactos/caso-de-uso2.jpeg)
 
 ## 👥 Contribución al Proyecto
 
