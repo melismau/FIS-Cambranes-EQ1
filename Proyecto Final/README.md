@@ -59,6 +59,6 @@ El valor principal de la aplicación es:
 ---  
 
 **Universidad Autónoma de Yucatán**
-**Facultad de Matemáticas - Ingeniería de Software**
-**Fundamentos de Ingeniería de Software**
-**Período: Agosto-Diciembre 2025**
+<br>**Facultad de Matemáticas - Ingeniería de Software**
+<br>**Fundamentos de Ingeniería de Software**
+<br>**Período: Agosto-Diciembre 2025**
