@@ -25,7 +25,7 @@ El valor principal de la aplicación es:
 |-------------------------|---------|
 | **Producto** <br>- Descripción del producto <br>- Usuarios/Clientes <br>- Propuesta de valor | `/docs/producto/` <br>`.../descripcion-de-producto.md` <br>`.../usuarios-clientes.md` <br>`.../propuesta-de-valor.md` |
 | **Requisitos** <br>- Requisitos funcionales <br>- Requisitos no funcionales <br>- Priorización <br>- Artefactos | `/docs/requisitos/` <br>`.../requisitos-funcionales.md` <br>`.../requisitos-no-funcionales.md` <br>`.../priorizacion.md` <br>`.../artefactos/...`|
-| **Proceso** <br>- Descripción del proceso <br>- Gestión del proceso <br>- Métrica de contribución individual | `/docs/gestion-del-proyecto/` <br>`.../descripcion-del-proceso.md` <br>`.../gestion-del-proceso.md` `.../bitacoras/...`  <br>`.../metricas-de-contribucion.md` |
+| **Proceso** <br>- Descripción del proceso <br>- Gestión del proceso <br>- Métrica de contribución individual | `/docs/proceso/` <br>`.../descripcion-del-proceso.md` <br>`.../gestion-del-proceso.md` `.../bitacoras/...`  <br>`.../metricas-de-contribucion.md` |
 
 ## 🎯 Alcance del Proyecto
 ### Aspectos
