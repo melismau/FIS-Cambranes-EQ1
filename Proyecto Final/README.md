@@ -44,22 +44,6 @@ El valor principal de la aplicación es:
 
 ![Casos de Usos](docs/requisitos/artefactos/caso-de-uso2.jpeg)
 
-## 💼 Competencias Desarrolladas
-### Genéricas
-- Se desarrolló la capacidad de trabajar en equipo de forma organizada en proyectos de software, cumpliendo con las responsabilidades asignadas y manteniendo una comunicación efectiva con los diferentes interesados.
-- Se fomentó el uso de herramientas digitales y colaborativas (como repositorios de control de versiones y plataformas de gestión de proyectos) para coordinar esfuerzos, almacenar y compartir avances de manera clara y ordenada.
-- Se mostró disposición para aprender de manera autónoma y perseverancia en la solución de problemas técnicos y organizacionales.
-- Se ejerció responsabilidad y ética profesional en la toma de decisiones, considerando las implicaciones sociales, legales, económicas y ambientales relacionadas con el desarrollo tecnológico.
-- Se desarrollaron actitudes de liderazgo, innovación y conciencia social para enfrentar retos en proyectos de software que respondan a las necesidades de la sociedad.
-
-### Específicas
-- Se aplicaron técnicas, herramientas, métodos y procedimientos de ingeniería de software para el desarrollo de productos de software de calidad en pequeña y gran escala, mediante un enfoque sistemático, disciplinado y cuantificable.
-- Se ejercieron habilidades para el mantenimiento de software heredado, optimizando recursos humanos, materiales, económicos y de tiempo, atendiendo las necesidades particulares de las organizaciones.
-- Se practicó la administración de procesos de software (desarrollo, mantenimiento, calidad y configuración), con la finalidad de garantizar productos confiables y eficientes.
-- Se elaboraron propuestas de innovación y mejora en procesos y productos de software, fundamentadas en principios matemáticos, ingenieriles y de las ciencias computacionales.
-- Se desarrollaron capacidades de análisis, modelado y documentación de sistemas de software, así como de evaluación de procesos, para promover la mejora continua en la práctica profesional.
-- Se fortalecieron las habilidades de comunicación profesional, negociación y liderazgo en equipos multidisciplinarios, asegurando un desempeño ético y responsable en entornos colaborativos.
-
 ## 👥 Contribución al Proyecto
 ### Estructura del Equipo
 #### Roles y Responsabilidades
