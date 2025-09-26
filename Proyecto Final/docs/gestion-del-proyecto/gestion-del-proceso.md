@@ -9,9 +9,9 @@ El proyecto se desarrollo en base a reuniones presenciales y comunicación const
 El monitoreo se llevó a cabo mediante revisiones periódicas en WhatsApp y la verificación del cumplimiento de actividades.
 
 Se registraron:
-- **[Reunión 1](bitacora/reunion1.md)**
-- **[Reunión 2](bitacora/reunion2.md)**
-- **[Conflictos](bitacora/conflictos.md)**
+- **[Reunión 1](bitacoras/reunion1.md)**
+- **[Reunión 2](bitacoras/reunion2.md)**
+- **[Conflictos](bitacoras/conflictos.md)**
 
 **Productos resultantes:**
 - Documento inicial con la propuesta general de la aplicación
