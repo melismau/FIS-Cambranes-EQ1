@@ -5,8 +5,8 @@
 Mayapprendo es una aplicación móvil y de escritorio multiplataforma diseñada para facilitar el aprendizaje autónomo, divertido y accesible de la lengua maya yucateca. El proyecto emplea metodologías de gamificación, ejercicios interactivos y contenido cultural auténtico para crear una experiencia de aprendizaje integral que preserve y revitalice este patrimonio lingüístico de la Península de Yucatán.
 
 ### Estado del Proyecto
-- **Fase:*- Proof of Concept (PoC)
-- **Entrega:*- 1/3
+- **Fase:** Proof of Concept (PoC)
+- **Entrega:** 1/3
 
 ## ⚖️ Propósito y Justificación
 
@@ -47,16 +47,16 @@ El valor principal de la aplicación es:
 ### Estructura del Equipo
 
 #### Roles y Responsabilidades
-- **Líder de Proyecto:*- [Danna Sansores](https://github.com/dannasansores) - Propuesta de valor y métrica de contribución individual
-- **Desarrollador Backend:*- [Leonardo Isaías](https://github.com/manriqueespinosaleonardo) - Descripción de productos y requisitos no funcionales  
-- **Especialista en Procesos:*- [Maru Perdomo](https://github.com/marunui) - Priorización y descripción del proceso
-- **Analista de Negocio:*- [Octavio Pérez](https://github.com/octavpg) - Usuarios/clientes y gestión del proceso
-- **Documentalista:*- [Eli Scott](https://github.com/melismau) - Organización, documentación del repositorio y requisitos funcionales
-- **Diseñador:*- [Eithel Soberanis](https://github.com/eithelsoberanis-coder) - Formato de presentación y artefactos
+- **Líder de Proyecto:** [Danna Sansores](https://github.com/dannasansores) - Propuesta de valor y métrica de contribución individual
+- **Desarrollador Backend:** [Leonardo Isaías](https://github.com/manriqueespinosaleonardo) - Descripción de productos y requisitos no funcionales  
+- **Especialista en Procesos:** [Maru Perdomo](https://github.com/marunui) - Priorización y descripción del proceso
+- **Analista de Negocio:** [Octavio Pérez](https://github.com/octavpg) - Usuarios/clientes y gestión del proceso
+- **Documentalista:** [Eli Scott](https://github.com/melismau) - Organización, documentación del repositorio y requisitos funcionales
+- **Diseñador:** [Eithel Soberanis](https://github.com/eithelsoberanis-coder) - Formato de presentación y artefactos
 
 ---  
 
-**Universidad Autónoma de Yucatán*-  
-**Facultad de Matemáticas - Ingeniería de Software*-  
-**Fundamentos de Ingeniería de Software*-  
+**Universidad Autónoma de Yucatán**
+**Facultad de Matemáticas - Ingeniería de Software**
+**Fundamentos de Ingeniería de Software**
 **Período: Agosto-Diciembre 2025**
