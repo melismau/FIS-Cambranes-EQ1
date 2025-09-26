@@ -1,6 +1,6 @@
 # Mayapprendo - App de Aprendizaje de la Lengua Maya
 
-## Descripción del Proyecto
+## 📌 Descripción del Proyecto
 
 Mayapprendo es una aplicación móvil y de escritorio multiplataforma diseñada para facilitar el aprendizaje autónomo, divertido y accesible de la lengua maya yucateca. El proyecto emplea metodologías de gamificación, ejercicios interactivos y contenido cultural auténtico para crear una experiencia de aprendizaje integral que preserve y revitalice este patrimonio lingüístico de la Península de Yucatán.
 
@@ -8,7 +8,7 @@ Mayapprendo es una aplicación móvil y de escritorio multiplataforma diseñada 
 - **Fase:** Proof of Concept (PoC)
 - **Entrega:** 1/3
 
-## Propósito y Justificación
+## ⚖️ Propósito y Justificación
 
 La lengua maya representa un patrimonio cultural invaluable que enfrenta riesgos crecientes de desaparición debido a la carencia de recursos educativos modernos y atractivos para las nuevas generaciones. Este proyecto surge como respuesta a la necesidad crítica de herramientas digitales que:
 
@@ -17,13 +17,15 @@ La lengua maya representa un patrimonio cultural invaluable que enfrenta riesgos
 - Fortalezcan la identidad regional conectando a los usuarios con su herencia ancestral
 - Proporcionen una experiencia integral y actualizada que actualmente no existe en iniciativas digitales similares
 
-## Estructura del Proyecto
+## 🏗️ Estructura del Proyecto
+| Categoría e Indicadores                                                                                   | Enlaces                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Producto<br>- Descripción del producto<br>- Usuarios/Clientes<br>- Propuesta de valor                     | `/docs/producto/`<br>`/docs/producto/descripcion-de-producto.md`<br>`/docs/producto/usuarios-clientes.md`<br>`/docs/producto/propuesta-de-valor.md`                                 |
+| Requisitos<br>- Requisitos funcionales<br>- Requisitos no funcionales<br>- Priorizacion                   | `/docs/requisitos/`<br>`/docs/producto/requisitos-funcionales.md`<br>`/docs/producto/requisitos-no-funcionales.md`<br>`/docs/producto/priorizacion.md`<br>                          |
+| Proceso<br>- Descripción del proceso<br>- Gestión del proceso<br>- Métrica de contribución individual<br> | `/docs/gestion-del-proyecto/`<br>`/docs/gestion-del-proyecto/metodologia.md`<br>`/docs/gestion-del-proyecto/bitacoras/`<br>`/docs/gestion-del-proyecto/metricas-de-contribucion.md` |
+| Artefactos                                                                                                | `/docs/artefactos/`                                                                                                                                                                 |
 
-| a |  b  |
-|---|-----|
-| d |  c  |
-
-## Contribución al Proyecto
+## 👥 Contribución al Proyecto
 
 ### Estructura del Equipo
 
@@ -51,7 +53,7 @@ La distribución de responsabilidades se basa en una división equitativa del 10
 3. **Integración Colaborativa:** Consolidación de componentes individuales en producto cohesivo
 4. **Validación Cruzada:** Revisión mutua de entregables para asegurar calidad y consistencia
 
----
+---  
 
 **Universidad Autónoma de Yucatán**  
 **Facultad de Matemáticas - Ingeniería de Software**  
