@@ -1,7 +1,7 @@
 # Mayapprendo - App de Aprendizaje de la Lengua Maya
 
 ## 📌 Descripción del Proyecto
-[Vea nuestro video informativo aquí (ext)](https://alumnosuady-my.sharepoint.com/personal/a22204188_alumnos_uady_mx/_layouts/15/stream.aspx?id=%2Fpersonal%2Fa22204188%5Falumnos%5Fuady%5Fmx%2FDocuments%2FFMAT%2FFIS%2FVideo%20presentacion%20del%20producto%2EMP4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee9ebaab9%2D3171%2D4016%2Dab67%2D4e15447ad984)
+[Vea nuestro video informativo aquí (ext)](https://drive.google.com/drive/folders/1YPXKWkAcZXrVElJCvuq06JiZFpTmNsxV)
 
 Mayapprendo es una aplicación móvil y de escritorio multiplataforma diseñada para facilitar el aprendizaje autónomo, divertido y accesible de la lengua maya yucateca. El proyecto emplea metodologías de gamificación, ejercicios interactivos y contenido cultural auténtico para crear una experiencia de aprendizaje integral que preserve y revitalice este patrimonio lingüístico de la Península de Yucatán.
 
