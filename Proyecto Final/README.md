@@ -209,14 +209,10 @@ La distribución de responsabilidades se basa en una división equitativa del 10
 
 Para información detallada sobre aspectos específicos del proyecto, consulte la documentación especializada en el repositorio:
 
-- **[Requisitos Funcionales y No Funcionales](./docs/requisitos.md)**
-- **[Arquitectura del Sistema](./docs/arquitectura.md)**
-- **[Manual de Usuario](./docs/manual-usuario.md)**
-- **[Manual Técnico de Desarrollo](./docs/manual-tecnico.md)**
-- **[Justificación Pedagógica](./docs/justificacion-pedagogica.md)**
-- **[Casos de Uso y Historias de Usuario](./docs/casos-uso.md)**
-- **[Metodología de Desarrollo](./docs/metodologia.md)**
-- **[Gestión de Proyecto](./docs/gestion-proyecto.md)**
+- **[Requisitos Funcionales](./docs/requisitos/requisitos-funcionales.md)**
+- **[Requisitos no Funcionales](./docs/requisitos/requisitos-no-funcionales.md)**
+- **[Casos de Uso e Historias de Usuario](./docs/requisitos/casos-de-uso.md)**
+- **[Metodología de Desarrollo](./docs/gestion-del-proyecto/metodologia.md)**
 
 **Universidad Autónoma de Yucatán**  
 **Facultad de Matemáticas - Ingeniería de Software**  
