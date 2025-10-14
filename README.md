@@ -7,7 +7,7 @@ Repositorio para administrar la entrega de las tareas, actividades, y demás pro
 |------------------------|---------|--------|
 |[Danna Sansores](https://github.com/dannasansores) | Líder del equipo | ![Foto Danna](Imagenes/danna.JPEG) |
 |[Leo Isaias](https://github.com/lime07) | | |
-|[Maru Perdomo](https://github.com/marunui) | | |
+|[Maru Perdomo](https://github.com/marunui) | Líder del equipo | ![Foto Maru](Imagenes/maru.JPEG) |
 |[Octavio Perez](https://github.com/octavpg) | | |
 |[Eli Scott](https://github.com/melismau) | Organización y documentación del repositorio | ![foto eli scott](Imagenes/eli.jpeg) |
 |[Eithel Soberanis](https://github.com/eithelsoberanis-coder) | | |
