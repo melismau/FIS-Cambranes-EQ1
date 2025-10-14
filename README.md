@@ -9,5 +9,5 @@ Repositorio para administrar la entrega de las tareas, actividades, y demás pro
 |[Leo Isaias](https://github.com/lime07) | | |
 |[Maru Perdomo](https://github.com/marunui) | | |
 |[Octavio Perez](https://github.com/octavpg) | | |
-|[Eli Scott](https://github.com/melismau) | Organización y documentación del repositorio | |
+|[Eli Scott](https://github.com/melismau) | Organización y documentación del repositorio | ![foto eli scott](Imagenes/eli.jpeg) |
 |[Eithel Soberanis](https://github.com/eithelsoberanis-coder) | | |
