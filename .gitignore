@@ -1,1 +1,25 @@
 Pruebas de Desempeño/PD1/Gráficas/Distribución Ideal (ANIEI).png
+*.tmp
+temp/
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
