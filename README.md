@@ -4,6 +4,8 @@
 
 > Administración de tareas, actividades y proyectos utilizando metodologías ágiles y mejores prácticas de desarrollo.
 
+Aquí está el enlace al video presentación: [video-equipo-1](https://drive.google.com/file/d/1b2j3VpD6nTRexzDeJm8CeKdZag10IRbn/view?usp=sharing)
+
 ---
 
 | Integrantes del equipo | Función | Imagen |
