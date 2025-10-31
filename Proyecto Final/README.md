@@ -2,6 +2,8 @@
 
 ## 📌 Descripción del Proyecto
 
+[Vea nuestro video informativo aquí (ext)](https://drive.google.com/drive/folders/1YPXKWkAcZXrVElJCvuq06JiZFpTmNsxV)
+
 Mayapprendo es una aplicación diseñada para facilitar el aprendizaje autónomo, divertido y accesible de la lengua maya yucateca. El proyecto emplea metodologías de gamificación, ejercicios interactivos y contenido cultural auténtico para crear una experiencia de aprendizaje integral que preserve y revitalice este patrimonio lingüístico de la Península de Yucatán.
 
 ### Estado del Proyecto
@@ -29,14 +31,14 @@ El valor principal de la aplicación es:
 
 ```
 Proyecto Final/                  # Desarrollo principal del proyecto final de la materia
+├── design/                      # Sistema de diseño completo (guías de estilo, assets en alta calidad, wireframes)
 ├── docs/                        # Documentación técnica y de proceso
-│   ├── design/                      # Sistema de diseño completo (guías de estilo, assets en alta calidad, wireframes)
 │   ├── proceso/                 # Metodología ágil y gestión del proyecto
 │   │   └── bitacoras/           # Registro de reuniones, decisiones y distribución de trabajo
 │   ├── producto/                # Especificaciones técnicas y documentación del producto
 │   └── requisitos/              # Análisis y definición de requisitos funcionales y no funcionales
 │       └── artefactos/          # Entregables de análisis (user stories, casos de uso, diagramas)
-├── mockup/                     # Prototipos interactivos y navegables
+├── mockups/                     # Prototipos interactivos y navegables
 │   └── assets/                  # Recursos visuales específicos para los mockups (icons, imágenes optimizadas)
 └── README.md                    # Documentación interna del proyecto - detalles técnicos y configuración
 ```

@@ -30,14 +30,14 @@ FIS-Cambranes-EQ1/
 │   └── tutoriales/              # Material instructivo visual para guías técnicas (screenshots, GIFs, videos)
 │
 ├── Proyecto Final/              # Desarrollo principal del proyecto final de la materia
+│   ├── design/                  # Sistema de diseño completo (guías de estilo, assets en alta calidad, wireframes)
 │   ├── docs/                    # Documentación técnica y de proceso
-│   │   ├── design/                  # Sistema de diseño completo (guías de estilo, assets en alta calidad, wireframes)
 │   │   ├── proceso/             # Metodología ágil y gestión del proyecto
 │   │   │   └── bitacoras/       # Registro de reuniones, decisiones y distribución de trabajo
 │   │   ├── producto/            # Especificaciones técnicas y documentación del producto
 │   │   └── requisitos/          # Análisis y definición de requisitos funcionales y no funcionales
 │   │       └── artefactos/      # Entregables de análisis (user stories, casos de uso, diagramas)
-│   ├── mockup/                 # Prototipos interactivos y navegables
+│   ├── mockups/                 # Prototipos interactivos y navegables
 │   │   └── assets/              # Recursos visuales específicos para los mockups (icons, imágenes optimizadas)
 │   └── README.md                # Documentación interna del proyecto - detalles técnicos y configuración
 │
