@@ -81,7 +81,7 @@ El valor principal de la aplicación es:
 - **Sin conectividad:** no funciona offline ni sincroniza datos entre dispositivos
 - **Accesibilidad incompleta:** incluye ajustes visuales pero no está optimizada para discapacidades visuales/auditivas severas
 
-![Casos de Usos](docs/requisitos/artefactos/-de-uso2.jpeg)
+![Casos de Uso](docs/requisitos/diagrama-casos-de-uso.png)
 
 ## 👥 Equipo de Trabajo
 
