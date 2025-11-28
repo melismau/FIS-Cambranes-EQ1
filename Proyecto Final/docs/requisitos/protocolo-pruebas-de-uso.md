@@ -116,15 +116,10 @@ Solo en: fallas técnicas, pantallas congeladas, botones que no funcionan, bloqu
 ## 8. Desarrollo de la Prueba
 
 (CU-001, CU-004, CU-007, CU-008, CU-005, CU-011, CU-006, CU-003)
-*Ya incluidos arriba; se mantienen como en original.*
 
 ---
 
-# 📊 TABLA COMPLETA DE CRITERIOS E INDICADORES (Markdown)
-
-**Lista, bonita, 100% funcional para copiar y pegar:**
-
----
+# 📊 TABLA COMPLETA DE CRITERIOS E INDICADORES 
 
 ## Tabla de Criterios e Indicadores por Tarea
 
@@ -156,19 +151,19 @@ Solo en: fallas técnicas, pantallas congeladas, botones que no funcionan, bloqu
 
 | Caso de Uso                  | Tarea Evaluada                                     | Criterios de Éxito                                                           | Indicadores Medibles                                                                 |
 | ---------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| CU-006 Ajustar accesibilidad | Modificar tamaño de texto y activar alto contraste | - Encuentra ambas opciones sin ayuda.<br>- Aplica los cambios correctamente. | - Tiempo ≤ 80 s.<br>- ≤ 2 errores.<br>- ≤ 9 clics.<br>- Percepción del efecto ≥ 4/5. |
+| CU-006 Ajustar accesibilidad | Activar alto contraste | - Encuentra ambas opciones sin ayuda.<br>- Aplica los cambios correctamente. | - Tiempo ≤ 80 s.<br>- ≤ 2 errores.<br>- ≤ 9 clics.<br>- Percepción del efecto ≥ 4/5. |
 
 ### CU-007 – Acceder a lecciones
 
 | Caso de Uso                | Tarea Evaluada                | Criterios de Éxito                                                          | Indicadores Medibles                                                                                |
 | -------------------------- | ----------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| CU-007 Acceder a lecciones | Abrir una lección de su nivel | - Navega a la categoría correcta.<br>- Selecciona la lección sin confusión. | - Tiempo ≤ 45 s.<br>- ≤ 1 error.<br>- ≤ 6 clics.<br>- Reconoce que está en la lección adecuada 1/1. |
+| CU-007 Acceder a lecciones | Abrir una lección de su nivel y leer las traducciones de palabras| - Navega a la categoría correcta.<br>- Selecciona la lección sin confusión. | - Tiempo ≤ 45 s.<br>- ≤ 1 error.<br>- ≤ 6 clics.<br>- Reconoce que está en la lección adecuada 1/1. |
 
 ### CU-008 – Realizar ejercicio
 
 | Caso de Uso                    | Tarea Evaluada                     | Criterios de Éxito                                 | Indicadores Medibles                                                                      |
 | ------------------------------ | ---------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| CU-008 Ejercicios interactivos | Completar un ejercicio interactivo | - Entiende la interfaz.<br>- Finaliza sin bloqueo. | - Tiempo ≤ 90 s.<br>- ≤ 3 errores.<br>- ≤ 1 confusión reportada.<br>- Satisfacción ≥ 4/5. |
+| CU-008 Ejercicios interactivos | Completar un ejercicio interactivo (Examen) | - Entiende la interfaz.<br>- Finaliza sin bloqueo. | - Tiempo ≤ 90 s.<br>- ≤ 3 errores.<br>- ≤ 1 confusión reportada.<br>- Satisfacción ≥ 4/5. |
 
 ### CU-011 – Compras internas
 
