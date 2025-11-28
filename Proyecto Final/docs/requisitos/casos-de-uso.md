@@ -7,7 +7,7 @@
 **Flujo principal:**
 1. El usuario selecciona la opción “Registrarse”.
 2. Ingresa nombre, correo y contraseña.
-3. El sistema valida los datos.
+3. El sistema valida los datos de que las contraseña sean iguales y que el correo tenga un formato válido como aaa@aaa.
 4. El sistema crea la cuenta y muestra un mensaje de bienvenida.
 
 **Flujo alterno:**  
@@ -23,7 +23,7 @@ Si el correo ya está registrado, el sistema muestra un mensaje indicando que de
 1. El usuario abre la aplicación.
 2. Selecciona la opción “Iniciar sesión”.
 3. Ingresa su correo y contraseña.
-4. El sistema valida los datos.
+4. El sistema valida los datos como que el correo tenga un formato aaa@aaa.
 5. El usuario accede a su perfil.
 
 **Flujo alterno:**  
@@ -58,7 +58,7 @@ Si el usuario cancela, la cuenta se conserva sin cambios.
 4. El usuario finaliza el tutorial.
 
 **Flujo alterno:**  
-Si el usuario elige omitir, se le redirige al inicio.
+Si el usuario no es nuevo puede seleccionar el botó de omitir, se le redirige al inicio.
 
 ---
 

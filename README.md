@@ -43,6 +43,22 @@ FIS-Cambranes-EQ1/
 └── Pruebas de Desempeño/        # Evaluaciones individuales y mediciones de desempeño del equipo
 ```
 
+| Documento | Descripción | Path |
+|-----------|-------------|------|
+| [README del Proyecto](Proyecto%20Final/README.md) | Sintesis del proyecto | `Proyecto Final/README.md` |
+| [Resumen del Trabajo Realizado](Proyecto%20Final/docs/proceso/README.md) | Documento síntesis que recopila los puntos clave, avances y acuerdos obtenidos en las bitácoras de las reuniones del equipo para la segunda entrega del proyecto. | `Proyecto Final/docs/proceso/README.md` |
+| [Proceso del Equipo](Proyecto%20Final/docs/proceso/proceso-del-equipo.md) | Relato detallado de la metodología de trabajo, responsabilidades y el flujo seguido por cada miembro del equipo de acuerdo con su rol asignado durante el desarrollo del proyecto. | `Proyecto Final/docs/proceso/proceso-del-equipo.md` |
+| [Métrica de Contribución](Proyecto%20Final/docs/proceso/metrica-contribucion.pdf) | Informe cuantitativo que registra y desglosa el nivel de participación y las contribuciones específicas (commits, issues, etc.) de cada integrante del equipo. | `Proyecto Final/docs/proceso/metrica-contribucion.pdf` |
+| [Casos de Uso](Proyecto%20Final/docs/requisitos/casos-de-uso.md) | Especificación detallada de las interacciones entre los actores (usuarios) y el sistema, describiendo el flujo de eventos para alcanzar objetivos específicos. | `Proyecto Final/docs/requisitos/casos-de-uso.md` |
+| [Documento de Requisitos](Proyecto%20Final/docs/requisitos/documento-de-requisitos.md) | Definición general y alcance del proyecto, actuando como el documento maestro que engloba las necesidades y especificaciones de alto nivel. | `Proyecto Final/docs/requisitos/documento-de-requisitos.md` |
+| [Requisitos Funcionales](Proyecto%20Final/docs/requisitos/requisitos-funcionales.md) | Listado exhaustivo de las funciones, comportamientos y capacidades específicas que el sistema debe proveer a sus usuarios. | `Proyecto Final/docs/requisitos/requisitos-funcionales.md` |
+| [Requisitos No Funcionales](Proyecto%20Final/docs/requisitos/requisitos-no-funcionales.md) | Especificación de los criterios de calidad, rendimiento, seguridad y otras restricciones que juzgan el funcionamiento del sistema, en lugar de sus comportamientos específicos. | `Proyecto Final/docs/requisitos/requisitos-no-funcionales.md` |
+| [Guía de Diseño](Proyecto%20Final/docs/design/guia-de-diseño.md) | Conjunto de estándares, principios visuales y patrones de diseño que aseguran la coherencia y la usabilidad en la interfaz de usuario y experiencia de usuario (UI/UX). | `Proyecto Final/docs/design/guia-de-diseño.md`|
+| [Protocolo de Pruebas de Uso](Proyecto%20Final/docs/requisitos/protocolo-pruebas-de-uso.md) | Conjunto de estándares para la planificación del diseño y elaboración de las pruebas de uso | `Proyecto Final/docs/requisitos/protocolo-pruebas-de-uso.md` |
+| [Guía de Contribución](CONTRIBUTING.md)| Manual que establece los lineamientos, convenciones y pasos necesarios para que los colaboradores puedan contribuir efectivamente a la documentación del proyecto. | `CONTRIBUTING.md` |
+| [Mockup](https://marunui.github.io/testingsito/) | Prototipo visual de media fidelidad que representa la estructura, disposición de elementos y flujo de las pantallas de la aplicación. | `Proyecto Final/mockup/...` |
+
+
 ## Mockup
 
 Puedes acceder a un despliegue de nuestro mockup [aquí](https://marunui.github.io/testingsito/).
