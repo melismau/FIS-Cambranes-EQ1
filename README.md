@@ -35,8 +35,7 @@ FIS-Cambranes-EQ1/
 │   │   ├── proceso/             # Metodología ágil y gestión del proyecto
 │   │   │   └── bitacoras/       # Registro de reuniones, decisiones y distribución de trabajo
 │   │   ├── producto/            # Especificaciones técnicas y documentación del producto
-│   │   └── requisitos/          # Análisis y definición de requisitos funcionales y no funcionales
-│   │       └── artefactos/      # Entregables de análisis (user stories, casos de uso, diagramas)
+│   │   └── requisitos/          # Análisis y definición de requisitos funcionales y no funcionales y entregables de análisis (user stories, casos de uso, diagramas)
 │   ├── mockups/                 # Prototipos interactivos y navegables
 │   │   └── assets/              # Recursos visuales específicos para los mockups (icons, imágenes optimizadas)
 │   └── README.md                # Documentación interna del proyecto - detalles técnicos y configuración
