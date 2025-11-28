@@ -1,69 +1,86 @@
-# 📘 Gestión del Proceso (Entrega 1)
+# Resumen de evolución del proyecto Mayapprendo
 
-## 🛠️ Actividades y Herramientas de Monitoreo
+## Primera entrega
 
-El desarrollo del proyecto se llevó a cabo mediante **reuniones presenciales**, **comunicación constante por medios digitales** y el uso de herramientas colaborativas que facilitaron la planeación y el seguimiento de actividades.
+Esta entrega se centró en la fase inicial de definir las bases del proyecto. El trabajo comenzó con el desarrollo y la articulación de las ideas generales, para que con ello se sentaran los cimientos para el diseño y la implementación de lo siguiente:
 
-### 🔹 Actividades Principales
-- **Reuniones presenciales:** Espacios de trabajo conjunto para definir ideas principales, objetivos y asignación de tareas.  
-- **WhatsApp:** Medio de comunicación diario para resolver dudas, conflictos, compartir avances e intercambiar ideas.  
-- **Excel compartido:** Herramienta utilizada para organizar los requisitos y verificar el cumplimiento de los objetivos planteados.  
-- **GitHub:** Repositorio colaborativo donde se almacenaron los avances individuales y grupales, además del control de versiones.  
+- **Propósito del producto:** Se definió el objetivo central del producto, con base en la determinación de las necesidades y problemas específicos que busca resolver dentro del mercado objetivo.
+- **Justificación del proyecto:** Se elaboró la argumentación sólida del desarrollo del producto. Esta justificación se basa en un análisis del mercado actual, los beneficios esperados y el impacto en los usuarios y clientes.
 
-### 🔹 Monitoreo del Proyecto
-El seguimiento se realizó mediante **revisiones periódicas en WhatsApp**, así como la **verificación del cumplimiento de actividades** asignadas en cada reunión.
+Una etapa crucial fue la investigación orientada al mercado para que de esta manera el proyecto se situara con necesidades reales:
 
-### 🔹 Registro de Reuniones
-- [Reunión 1](bitacoras/reunion1.md)  
-- [Reunión 2](bitacoras/reunion2.md)  
-- [Conflictos](bitacoras/conflictos.md)
+- **Identificación de usuarios y clientes potenciales:** Se realizó la identificación y división inicial de los usuarios finales y clientes potenciales, lo cual es fundamental para determinar las prioridades del producto.
+- **Propuesta de valor:** Basado en la comprensión del mercado y los usuarios, se formuló de manera clara y diferenciada. Esto explica cómo el producto generará valor en comparación con soluciones existentes.
 
-### 🔹 Productos Resultantes
-- Documento inicial con la propuesta general de la aplicación.  
-- Definición de tareas y responsables de cada integrante.  
-- Avances individuales en los apartados asignados.  
-- Delimitación del alcance del proyecto, excluyendo funciones complejas para futuras versiones.  
+Con la visión y el valor establecidos, el enfoque pasó a la especificación técnica y de alcance:
 
----
+- **Determinación de requisitos:** Se llevó a cabo la recopilación y definición de los requisitos del sistema, clasificados en:
+  - Requisitos funcionales: Las características y funcionalidades que el producto debe realizar.
+  - Requisitos no funcionales: Los criterios que describen cómo debe comportarse el sistema.
 
-# 🧩 Resumen del Trabajo Realizado (Entrega 2)
+Finalmente, se gestionó la información recopilada para establecer una ruta:
 
-## 🏁 Etapas de Desarrollo y Avances por Sprint
+- **Priorización de elementos:** Se aplicaron metodologías de priorización (como MoSCoW) a los requisitos y funcionalidades definidos, lo que permitió determinar el alcance de la primera iteración y las fases futuras del proyecto.
+- **Cierre de la entrega:** La entrega concluyó con la formulación y documentación de todos los elementos desarrollados, sirviendo como la base para el inicio del diseño y desarrollo de las siguientes fases.
 
-### **Sprint 1 – Planificación y Diseño Inicial**
-El equipo inició el proyecto con la **asignación de roles bajo la metodología Scrum**, definiendo claramente las responsabilidades del *Product Owner*, *Scrum Master* y *Developers*.  
-Se realizó la **primera reunión de planificación del Sprint**, donde se estableció el objetivo principal y se asignaron las tareas iniciales.  
+## Segunda entrega
 
-Durante esta fase:
-- Se definieron las **User Stories**, basadas en las necesidades de los usuarios interesados en aprender maya yucateco.  
-- Estas historias ayudaron a priorizar funciones de alto valor para el usuario.  
-- Se llevó a cabo una **lluvia de ideas colaborativa** para diseñar el **Mockup inicial**, visualizando la estructura general y la experiencia de usuario de la app.
+En primera instancia se llevó a cabo la planificación general del proyecto, la cual comenzó con la asignación de roles a cada integrante del equipo en base a la metodología Scrum, definiendo claramente el Scrum Master, Product Owner y los Developers. Después de esto se realizó la primera reunión de planificación del Sprint, donde se definió el objetivo principal y se establecieron las primeras tareas a realizar.
 
----
+Durante el Sprint 1, el equipo se enfocó en definir las User Stories tomando como base las necesidades de clientes potenciales y usuarios interesados en aprender maya yucateco. Estas historias ayudaron a entender mejor las funciones principales de la aplicación y a priorizar las que aportarían mayor valor al usuario final. Con esto, se organizó una lluvia de ideas colaborativa para diseñar el Mockup inicial, que sirvió para visualizar cómo sería la estructura general de la app y probar su interfaz de usuario.
 
-### **Sprint 2 – Refinamiento de Requisitos**
-Con el mockup y los avances previos, el equipo trabajó en el **refinamiento de los requisitos funcionales y no funcionales**, estableciendo una base sólida y documentada para el desarrollo.  
-Durante esta etapa:
-- Se aplicó la priorización **MoSCoW** para identificar los requisitos *Must Have*, *Should Have* y *Could Have*.  
-- Se incorporó una **mascota digital interactiva** para hacer la aplicación más atractiva y cercana al público meta.  
+En el Sprint 2, ya con el mockup visible y los avances previos, se decidió refinar los requerimientos funcionales y no funcionales, para que el proyecto tuviera una base más sólida y bien documentada. Esto permitió establecer con mayor claridad qué funciones serían “Must Have” y cuáles podrían implementarse más adelante. Además, se agregó una mascota digital como parte del diseño de la aplicación, con el objetivo de hacerla más llamativa y generar una conexión más amigable con el público.
 
----
+Durante el Sprint 3, se trabajó principalmente en la organización del repositorio, mejorando la estructura interna, la documentación técnica y el control de versiones, con el fin de evitar errores en futuras actualizaciones dentro de Git. También se revisaron los criterios de aceptación de las historias de usuario y se ajustaron algunos requerimientos que, por limitaciones técnicas actuales, se pospusieron para futuras iteraciones.
 
-### **Sprint 3 – Organización y Control de Versiones**
-En esta fase, el equipo se enfocó en **mejorar la estructura interna del repositorio GitHub**, aplicando control de versiones y documentando los procesos técnicos.  
-Se realizaron ajustes a los **criterios de aceptación de las User Stories**, y se pospusieron ciertos requerimientos que, por limitaciones técnicas actuales, se planean implementar en futuras iteraciones.
+Finalmente, a lo largo de los Sprints se mantuvieron reuniones de revisión y retrospectiva, en donde el equipo evaluó los avances logrados, los puntos de mejora y la forma en que se podían optimizar los procesos para las siguientes fases. Aunque todavía no se cuenta con un producto funcional final, el trabajo realizado ha permitido establecer una base sólida, documentada y orientada al desarrollo futuro del sistema, manteniendo siempre los principios del marco de trabajo Scrum.
 
----
+## Tercera entrega
 
-### **Revisión y Retrospectiva Continua**
-A lo largo de todos los Sprints, se llevaron a cabo reuniones de **revisión** y **retrospectiva**, en las cuales se evaluaron:
-- Los avances logrados en cada iteración.  
-- Las áreas de mejora del equipo.  
-- Estrategias para optimizar la colaboración y la eficiencia del flujo de trabajo.  
+Esta entrega marcó la transición de la fase de la planificación detallada a la validación temprana del diseño y la concreción de la especificación funcional. Lo principal fue asegurar la congruencia entre los requisitos del sistema, la experiencia del usuario y el prototipo funcional.
 
-Aunque aún no se cuenta con un producto funcional final, el equipo logró establecer una **base sólida, bien documentada y alineada con los principios del marco Scrum**, asegurando un desarrollo ordenado y sostenible para las siguientes fases del proyecto.
+### 1. Alineación del alcance y especificación funcional
 
----
+En esta sección nos centramos en la documentación técnica para garantizar que el esfuerzo de desarrollo se enfocara en las funcionalidades viables dentro del prototipo.
 
-📌 **Conclusión:**  
-El proyecto *Mayapprendo* ha avanzado de manera estructurada gracias a la implementación de metodologías ágiles, una comunicación constante y un enfoque colaborativo. Los entregables actuales reflejan un progreso significativo en la definición del producto y su planeación técnica para el desarrollo futuro.
+- **Refinamiento de los requisitos:** Se llevó a cabo un proceso de refinamiento en los requisitos previamente establecidos ya sean los funcionales y no funcionales. El objetivo fue la reducción de estos de manera estratégica en base al conjunto inicial; se eliminaron ambigüedades y se descartaron funcionalidades secundarias para lograr tener una congruencia con el prototipo.
+- **Cambio de historias de usuario a casos de uso:** Para mejorar la precisión y el enfoque, se realizó una migración metodológica en la que las historias de usuario fueron transformadas en casos de uso. Estos casos de uso se documentaron con sus actores, su flujo normal y alternos, sirviendo como base para las pruebas informales.
+
+### 2. Diseño de la interfaz y prototipo
+
+El diseño de la interfaz fue la conexión entre las especificaciones funcionales y el prototipo final, siendo desarrollado en estricta alineación con los requerimientos.
+
+- **Definición y alineación del mockup:** Se completó la definición del mockup, el cual fue diseñado para estar concretamente alineado con los requisitos y nuevos casos de uso, asegurando que los elementos de la interfaz tuvieran un propósito y cubrieran la necesidad de los usuarios.
+- **Creación del prototipo interactivo:** El mockup sirvió como guía para poder crear el prototipo interactivo, el cual es una versión usable y lista para ser probada por usuarios reales.
+
+### 3. Validación y usabilidad
+
+El esfuerzo principal de esta entrega se enfocó principalmente en poner a prueba el prototipo y tener una validación a través de pruebas de usabilidad.
+
+- **Diseño y ejecución de pruebas informales:** Se diseñaron pruebas informales de usabilidad, enfocadas en validar qué tan fácil era navegar dentro de la interfaz, su claridad y la ejecución exitosa de los flujos de casos de uso. Las pruebas se llevaron a cabo con usuarios potenciales para obtener observaciones directas y retroalimentación.
+- **Reportes y hallazgos de las pruebas:** Tras la ejecución de las pruebas, se elaboró un reporte que documentó:
+  - Las tareas asignadas y el tiempo de finalización  
+  - Facilidad de uso  
+  - Eficiencia de las principales funciones  
+  - Identificación de errores  
+- **Aplicación de mejoras:** El informe de las pruebas puso en marcha las mejoras. Se realizaron cambios en el mockup para mejorar su eficiencia y corregir los errores detectados.
+
+### 4. Contexto del proyecto y valor
+
+Finalmente se abordó la justificación evolutiva y el posicionamiento del proyecto.
+
+- **Análisis comparativo de las 3 entregas:** Se presentó un análisis que rastrea la evolución del proyecto desde la versión inicial hasta la validación del diseño. Esta comparación destaca el avance de la documentación, el ajuste del alcance, la transición de los requisitos y la retroalimentación del diseño.
+- **Innovación y diferenciación competitiva:** Se dedicó una sección para argumentar qué diferencia y da valor a nuestro producto en el mercado actual. Este análisis se centró en las características únicas del prototipo que lo hacen competente.
+
+## Tabla Comparativa
+
+| **Categoría**            | **Entrega 1**                                                                 | **Entrega 2**                                                                                   | **Entrega 3**                                                                                       |
+|--------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Comparación**          | Especificación de requerimientos funcionales y no funcionales                | Evolución de requerimientos, propuesta de diseño y mejora del proceso                           | Proceso de desarrollo del producto (requisitos, diseño y pruebas).                                   |
+| **Foco Principal de la Fase** | Definición del QUÉ y POR QUÉ. Establecimiento de la visión, el valor y el alcance inicial. | Definición del CÓMO y QUIÉN. Implementación de la metodología de trabajo (Scrum) y diseño inicial de la estructura. | Validación del QUÉ (Prototipo) y refinamiento del CÓMO. Alineación final de la funcionalidad con el diseño. |
+| **Documentación Central**| Propósito, Justificación, Propuesta de Valor, Requisitos (Funcionales y No Funcionales). | User Stories (Historias de Usuario), Roles Scrum (Master, Owner, Devs), Documentación Técnica del Repositorio. | Casos de Uso Detallados, Reporte de Pruebas Informales, Análisis Comparativo de Entregas.            |
+| **Manejo de Requisitos** | Determinación y Clasificación (Requisitos iniciales).                        | Refinamiento de Requisitos y ajuste de Criterios de Aceptación de las Historias de Usuario.      | Reducción Estratégica y Refinamiento Final de Requisitos para lograr congruencia con el prototipo.   |
+| **Diseño / Prototipado** | (Solo se define el propósito del producto).                                  | Creación del Mockup Inicial (visualización de la estructura general de la App).                  | Definición Final del Mockup alineado a Casos de Uso y creación del Prototipo Interactivo (usable).   |
+| **Metodología Clave**    | Priorización (ej. MoSCoW) para determinar el alcance de la primera iteración. | Marco de Trabajo Scrum (Sprints, Roles, Reuniones) y Gestión de Versiones (Git).                 | Pruebas Informales de Usabilidad para validar el flujo del usuario.                                   |
+| **Resultado Tangible**   | Base documental para el inicio del proyecto.                                 | Estructura del repositorio organizada y mockup de baja fidelidad.                               | Prototipo interactivo validado y mockup mejorado (en base a feedback de pruebas).                    |
+| **Innovación y Valor**   | Identificación de la necesidad de mercado (Justificación).                   | Inclusión de elementos de diseño como la Mascota Digital (conexión amigable).                   | Argumentación de Innovación y Diferenciación Competitiva (características únicas del prototipo).     |
