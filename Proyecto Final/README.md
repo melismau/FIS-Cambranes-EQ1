@@ -51,6 +51,7 @@ El valor principal de la aplicación es:
 | [Requisitos Funcionales](docs/requisitos/requisitos-funcionales.md) | Listado exhaustivo de las funciones, comportamientos y capacidades específicas que el sistema debe proveer a sus usuarios. | `docs/requisitos/requisitos-funcionales.md` |
 | [Requisitos No Funcionales](docs/requisitos/requisitos-no-funcionales.md) | Especificación de los criterios de calidad, rendimiento, seguridad y otras restricciones que juzgan el funcionamiento del sistema, en lugar de sus comportamientos específicos. | `docs/requisitos/requisitos-no-funcionales.md` |
 | [Guía de Diseño](docs/design/guia-de-diseño.md) | Conjunto de estándares, principios visuales y patrones de diseño que aseguran la coherencia y la usabilidad en la interfaz de usuario y experiencia de usuario (UI/UX). | `docs/design/guia-de-diseño.md`|
+| [Protocolo de Pruebas de Uso](docs/requisitos/protocolo-pruebas-de-uso.md) | Conjunto de estándares para la planificación del diseño y elaboración de las pruebas de uso | `docs/requisitos/protocolo-pruebas-de-uso.md` |
 | [Guía de Contribución](../CONTRIBUTING.md)| Manual que establece los lineamientos, convenciones y pasos necesarios para que los colaboradores puedan contribuir efectivamente a la documentación del proyecto. | `../CONTRIBUTING.md` |
 | [Mockup](https://marunui.github.io/testingsito/) | Prototipo visual de media fidelidad que representa la estructura, disposición de elementos y flujo de las pantallas de la aplicación. | `mockup/...` |
 
